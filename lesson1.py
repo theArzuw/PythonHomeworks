@@ -12,4 +12,4 @@ print(average)
 midtermGrade = float(input("Please enter the midterm grade: "))* 0.2
 finalGrade = float(input("Please enter the final grade: "))*0.8
 
-print(midtermGrade + finalGrade/2)
+print(midtermGrade + finalGrade)
