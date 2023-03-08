@@ -1,3 +1,3 @@
 # pythonFirstHomework
 
-- These assignments are Python Programming Language assignments == https://github.com/arzuusadecee/PythonHomeworks
+- These assignments are Python Programming Language assignments == https://github.com/theArzuw/PythonHomeworks
